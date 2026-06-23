@@ -7,11 +7,13 @@ print("hello from day3")
 myName = input("What's your name?")
 Title = input("What's your title?")
 Command = input("What is your command")
+print(Title +" " + myName + " wants "+ Command)
+
 
 
 ########################################################################
 # Task 2:
-print(Title +" " + myName + " wants "+ Command)
+
 
 
 
