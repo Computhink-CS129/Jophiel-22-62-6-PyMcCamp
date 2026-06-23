@@ -11,7 +11,7 @@ Command = input("What is your command")
 
 ########################################################################
 # Task 2:
-print(Title + myName + "wants")
+print(Title + myName + "wants"+ Com)
 
 
 
