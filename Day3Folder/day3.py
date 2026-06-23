@@ -14,7 +14,8 @@ print(Title +" " + myName + " wants "+ Command)
 ########################################################################
 # Task 2:
 name = "JOPHIEL"
-numpens = 
+numpens = 100
+
 
 
 
