@@ -15,7 +15,7 @@ print("hello from day3")
 # Task 2:
 name = "JOPHIEL"
 numpens = 100
-print(name + "bought" + str(numpens) + ".")
+print(name + "bought" + str(numpens) + " pens.")
 
 
 
