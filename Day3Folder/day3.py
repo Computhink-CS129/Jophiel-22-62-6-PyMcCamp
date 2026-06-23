@@ -15,7 +15,7 @@ print(Title +" " + myName + " wants "+ Command)
 # Task 2:
 name = "JOPHIEL"
 numpens = 100
-print()
+print(name + "bought" + str(numpens) + ".")
 
 
 
