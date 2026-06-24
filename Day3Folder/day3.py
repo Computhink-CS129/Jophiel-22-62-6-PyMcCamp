@@ -24,7 +24,7 @@ print(name + " bought " + str(numpens) + " pens.")
 Num1=input("Give a number.")
 NUm2=input("Give a number.")
 print(int(Num1) + int(NUm2))
-str(Nu)
+str(Num1+NUm2)
 ########################################################################
 # Task 4:
 
