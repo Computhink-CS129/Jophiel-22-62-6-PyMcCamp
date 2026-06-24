@@ -39,7 +39,7 @@ print("hello from day3")
 ########################################################################
 # Task 5:
 age1=10
-age2=int(8)
+age2=int("How old are you?")
 if age2>age1:
     print("You're old enought to enter!")
 else:
