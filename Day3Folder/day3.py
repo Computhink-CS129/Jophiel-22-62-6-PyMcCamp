@@ -28,8 +28,15 @@ print(int(Num1) + int(NUm2))
 
 ########################################################################
 # Task 4:
-cost=input("How many apples are you buying? An apple costs 0.67 dollars each")
+amount=input("How many apples are you buying? An apple costs 0.67 dollars each")
 
+apple_cost =67
+
+price = int(amount)*apple_cost
+
+# print("The "+ amount "apples you bought cost"+ str(price) +" cents.")
+
+print(amount + "apples you bought cost" + str(price) + " cents.")
 
 
 ########################################################################
