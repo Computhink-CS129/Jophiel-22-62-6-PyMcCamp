@@ -75,7 +75,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 8:
-num1 = rn(1,202)
+num1 = random(1,202)
 num2 = random.randint(0,10)
 num3=num1/num2
 print (str(num1) + " divided by " + str(num2) + " = ?")
