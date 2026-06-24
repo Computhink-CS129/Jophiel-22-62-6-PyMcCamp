@@ -75,8 +75,8 @@ for count in range (10):
 
 ########################################################################
 # Task 8:
-num1=random.randint(1,202)
-num2=random.randint(0,10)
+num1=random.randint(1,202,2)
+num2=random.randint(0,10,2)
 num3=num1/num2
 print (str(num1) + " divided by " + str(num2) + " = ?")
 guess= input("What is the answer?")
