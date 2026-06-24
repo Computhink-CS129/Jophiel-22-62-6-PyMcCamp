@@ -97,5 +97,3 @@ print(name + " bought " + str(numpens) + " pens.")
 
 
 
-
-
