@@ -82,7 +82,9 @@ print (num1 + " + " + num2 + " = ?")
 guess=input("What is the answer?")
 
 if guess==num3:
-    print("")
+    print("At least you got this correct")
+else:
+    print
 
 
 ####################################################################
