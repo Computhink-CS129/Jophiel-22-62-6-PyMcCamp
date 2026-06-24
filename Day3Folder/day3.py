@@ -39,7 +39,11 @@ print("The "+ amount + "apples you bought cost"+ str(price) +" cents.")
 ########################################################################
 # Task 5:
 age1=10
-age2=33
+age2=8
+if age2>age1:
+    print("You're old enought to enter!")
+else:
+    
 
 
 ########################################################################:
