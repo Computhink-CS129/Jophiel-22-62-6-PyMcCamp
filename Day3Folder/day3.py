@@ -28,7 +28,7 @@ print(int(Num1) + int(NUm2))
 
 ########################################################################
 # Task 4:
-cost=input(Wha)
+cost=input("How many apples are you buying? An apple costs 0.67 dollars each")
 
 
 
