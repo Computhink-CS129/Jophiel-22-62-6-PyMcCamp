@@ -66,8 +66,8 @@ print("hello from day3")
 
 ########################################################################
 # Task 7:
-
-import random
+for range in (10):
+    import random
 dicevalue = random.randint(1,6)
 
 
