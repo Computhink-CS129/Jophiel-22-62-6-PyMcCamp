@@ -52,8 +52,7 @@ real_password="your password"
 guess=input("Enter your password.")
 
 if guess==real_password:
-    print("Acces granted." \
-    "")
+    print("Acces granted.")
 
 
 
