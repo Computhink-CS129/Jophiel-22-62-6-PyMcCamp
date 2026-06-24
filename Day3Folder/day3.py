@@ -22,7 +22,8 @@ print(name + " bought " + str(numpens) + " pens.")
 ########################################################################
 # Task 3:
 Num1=input("Give a number.")
-NUm2=input("Give anotoher number".)
+NUm2=input("Give anotoher number.")
+
 
 
 ########################################################################
