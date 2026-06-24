@@ -48,20 +48,27 @@ print("hello from day3")
 
 ########################################################################:
 # Task 6
-real_password="your password"
-guess=input("Enter your password.")
+# real_password="your password"
+# guess=input("Enter your password.")
 
 
-if guess==real_password:
-    print("Acces granted.")
-else:
-    print("XXXx")
+# if guess==real_password:
+#     print("Acces granted.")
+# else:
+#     for letter in ("XXXx"):
+#     print(letter)
+
+# if letter=="x":
+#     print("System locked.")
 
 
 
 
 ########################################################################
 # Task 7:
+
+import random
+dicevalue = random.randint(1,6)
 
 
 
