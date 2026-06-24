@@ -3,11 +3,11 @@
 print("hello from day3")
 
 ########################################################################
-# Task 1:
-# myName = input("What's your name?")
-# Title = input("What's your title?")
-# Command = input("What is your command")
-# print(Title +" " + myName + " wants "+ Command)
+#  Task 1:
+myName = input("What's your name?")
+Title = input("What's your title?")
+Command = input("What is your command")
+print(Title +" " + myName + " wants "+ Command)
 
 
 
@@ -37,7 +37,7 @@ str(Num1+NUm2)
 
 
 ########################################################################:
-# 
+# Task 6
 
 
 ########################################################################
