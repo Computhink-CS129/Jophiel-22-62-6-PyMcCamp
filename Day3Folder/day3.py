@@ -49,7 +49,11 @@ else:
 ########################################################################:
 # Task 6
 real_password="your password"
-input("What is your password?")
+guess=input("Enter your password.")
+
+if guess==real_password:
+    print
+
 
 
 ########################################################################
