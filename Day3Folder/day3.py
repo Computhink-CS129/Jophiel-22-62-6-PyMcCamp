@@ -77,7 +77,7 @@ for count in range (10):
 # Task 8:
 num1=60
 num2=345
-print (num1 + " + " + num2 + "=)
+print (num1 + " + " + num2 + "=")
 guess=input("What is the answer?")
 
 
