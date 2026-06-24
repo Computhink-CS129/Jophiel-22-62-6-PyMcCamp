@@ -75,7 +75,7 @@ import random
 
 ########################################################################
 # Task 8:
-num1 = random.randrange(1,202, 2)
+num1 = random.randrange(0,202, 2)
 num2 = random.randrange(0,10,2)
 num3=num1/num2
 print (str(num1) + " divided by " + str(num2) + " = ?")
