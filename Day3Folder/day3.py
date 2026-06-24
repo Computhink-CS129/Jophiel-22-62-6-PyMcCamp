@@ -84,7 +84,7 @@ guess=input("What is the answer?")
 if guess==num3:
     print("At least you got this correct")
 else:
-    print("Extra homework")
+    print("Extra homework for you.")
 
 
 ####################################################################
