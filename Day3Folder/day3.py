@@ -38,12 +38,12 @@ print("hello from day3")
 
 ########################################################################
 # Task 5:
-age1=10
-age2=input("How old are you?")
-if int(age2)>age1:
-    print("You're old enought to enter!")
-else:
-    print("I'm sorry, you're too young.")
+# age1=10
+# age2=input("How old are you?")
+# if int(age2)>age1:
+#     print("You're old enought to enter!")
+# else:
+#     print("I'm sorry, you're too young.")
 
 
 ########################################################################:
