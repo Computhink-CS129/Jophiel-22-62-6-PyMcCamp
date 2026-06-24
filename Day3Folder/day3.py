@@ -76,7 +76,7 @@ import random
 ########################################################################
 # Task 8:
 num1 = random.randrange(2,10, 2)
-num2 = random.randrange(2,10,2)
+num2 = random.randrange(2,200,2)
 num3=num1/num2
 print (str(num1) + " divided by " + str(num2) + " = ?")
 guess= input("What is the answer?")
