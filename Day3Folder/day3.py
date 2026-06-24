@@ -43,7 +43,7 @@ age2=8
 if age2>age1:
     print("You're old enought to enter!")
 else:
-    
+    print("I")
 
 
 ########################################################################:
